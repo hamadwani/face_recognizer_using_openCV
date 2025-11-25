@@ -5,7 +5,7 @@ A real-time face detection and recognition system built with OpenCV and LBPH. Su
 
 face_recognizer/
 ├─ dataset/                 # images saved per user (created by capture_faces.py)
-│  ├─ User.Name.1/          # e.g. "Zeeshan.1"
+│  ├─ User.Name.1/          # e.g. "Hammad.1"
 │  │   ├─ 1.jpg
 │  │   └─ ...
 ├─ trainer/                 # model output
